@@ -67,3 +67,7 @@ def delete(request):
         cursor.execute("DELETE FROM sims_student WHERE id =%s", [id])
         conn.commit()
     return redirect('../')
+
+
+#cdsckdc
+#cdscscdscdcdc
